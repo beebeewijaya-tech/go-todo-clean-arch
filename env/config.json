@@ -1,0 +1,20 @@
+{
+  "database": {
+    "username": "postgres",
+    "port": 5432,
+    "host": "localhost",
+    "password": "",
+    "name": "",
+    "pool": {
+      "idle": 10,
+      "max": 100,
+      "lifetime": 300
+    }
+  },
+  "log": {
+    "level": 6
+  },
+  "jwt": {
+    "secret": "YmVlLWp3dC1zZWMK"
+  }
+}
